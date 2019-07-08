@@ -1,7 +1,7 @@
 
-# Analysing Ask Hackerrank and Show Hackerrank posts - Project (2)
+# Analysing Ask Hacker News and Show Hacker News posts - Project (2)
 
-In this project I am comparing Ask HN posts and Show HN posts to figure out which type of posts receive more comments on average and also if there is any relation to the amount of comments someone gets and the time they posted. Our data set is taken from Kaggles [Hackerrank News Posts](https://www.kaggle.com/hacker-news/hacker-news-posts).
+In this project I am comparing Ask HN posts and Show HN posts to figure out which type of posts receive more comments on average and also if there is any relation to the amount of comments someone gets and the time they posted. Our data set is taken from Kaggles [Hacker News Posts](https://www.kaggle.com/hacker-news/hacker-news-posts).
 
 Let's begin by reading our csv file.
 
